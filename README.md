@@ -18,23 +18,6 @@ This repository contains implementations of common data structures and algorithm
 
 ---
 
-## 📂 Repository Structure
-DSA-Practice/
-│
-├── Arrays/
-├── Strings/
-├── LinkedLists/
-├── Trees/
-├── Graphs/
-├── Sorting/
-├── Searching/
-└── README.md
-
----
-
-
----
-
 ## 🚀 Getting Started
 1. Clone the repository:
    ```bash
